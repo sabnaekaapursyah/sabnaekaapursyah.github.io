@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#contact {
+  background-color: #ffff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#projects .card {
+  transition: 0.4s;
+}
+
+#projects .card:hover {
+  transform: scale(1.075);
+}
+
+footer a {
+  text-decoration: none;
+}
